@@ -3,7 +3,9 @@
 // git init
 // git add
 // git commit -m "(mô tả )"
-// git push
+// git remote add origin https://github.com/ngoctinh123/ProjectNew.git (lấy trên google)
+// git push -u origin master(lấy trên google)
+
 <a>đưa code lên</a>
 // git add .
 // git commit -m "(mô tả)"
