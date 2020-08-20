@@ -12,5 +12,5 @@
 // git push
 <a>lấy code về</a>
 //git clone (đường link)
-// git pull (dùng trước khi push code lên)
+// git pull (dùng trước khi code hoặc sau khi push code lên)
 ?>
